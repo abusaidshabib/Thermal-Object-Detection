@@ -4,9 +4,11 @@ A comprehensive deep learning system for detecting humans in thermal imagery usi
 
 ## 📸 Sample Thermal Images
 
-![Thermal Sample 1](samples/sample1.jpg)
-![Thermal Sample 2](samples/sample2.jpg)
-![Thermal Sample 3](samples/sample3.jpg)
+<p align="center">
+  <img src="samples/sample1.jpg" width="250" />
+  <img src="samples/sample2.jpg" width="250" />
+  <img src="samples/sample3.jpg" width="250" />
+</p>
 
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
