@@ -2,6 +2,13 @@
 
 A comprehensive deep learning system for detecting humans in thermal imagery using YOLOv8. This project includes model training, evaluation, real-time video processing, and deployment capabilities.
 
+## 📸 Sample Thermal Images
+
+![Thermal Sample 1](samples/sample1.jpg)
+![Thermal Sample 2](samples/sample2.jpg)
+![Thermal Sample 3](samples/sample3.jpg)
+
+
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/pytorch-2.0+-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
