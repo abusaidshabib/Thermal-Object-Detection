@@ -1,0 +1,12 @@
+train: train/images
+val: test/images
+
+nc: 2
+names: ['car', 'person']
+
+roboflow:
+  workspace: dataset-io47l
+  project: yolo-models-thermal-images
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dataset-io47l/yolo-models-thermal-images/dataset/1

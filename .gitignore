@@ -1,0 +1,10 @@
+# YOLO / training outputs
+outputs/
+runs/
+
+# Datasets
+train/
+test/
+
+# Media files
+test.mp4
